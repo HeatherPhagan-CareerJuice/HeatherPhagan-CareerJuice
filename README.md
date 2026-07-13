@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm one of the founders of CareerJuice and I'm passionate about empowering everyone in their career journey to confidently take the steps to achieve their dreams. 
+
+Reach out if you're interested in learning more about what we're doing at CareerJuice and how you might be able to help.
+
+-------
+⚡Fun fact about me: I have more than 20 years experience developing software products but this is the first one I've directly contributed to the codebase. 
+
 <!--
 **HeatherPhagan-CareerJuice/HeatherPhagan-CareerJuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
